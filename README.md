@@ -1,6 +1,6 @@
 # KBN LLM Chatbot Augmented with Enterprise Data 
 
-This repository demonstrates how to use an open source pre-trained instruction-following LLM (Large Language Model) to build a ChatBot-like web application. The responses of the LLM are enhanced by giving it context from an internal knowledge base. This context is retrieved by using an open source Vector Database to do semantic search. 
+이 저장소는 오픈 소스 Pre-trained instruction-following LLM(Large Language Model)을 사용하여 챗봇과 같은 웹 애플리케이션을 구축하는 방법을 보여줍니다. LLM의 응답은 내부 지식 기반에서 컨텍스트를 제공하여 향상됩니다. 이 컨텍스트는 오픈 소스 벡터(vector) 데이터베이스를 사용하여 의미론적(semantic) 검색을 수행하여 검색됩니다.
 
 Watch the Chatbot in action [here](https://www.youtube.com/watch?v=WBH9hYDyHKU).
 
