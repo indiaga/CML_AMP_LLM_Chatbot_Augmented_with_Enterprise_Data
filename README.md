@@ -1,5 +1,5 @@
 # KBN LLM Chatbot Augmented with Enterprise Data 
-본 소스는 클라우데라 CML AMP 원본[here](https://github.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data)을 기반으로 수정이 되었습니다. 
+본 소스는 [클라우데라 CML AMP 원본](https://github.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data)을 기반으로 수정이 되었습니다. 
 
 이 저장소는 오픈 소스 Pre-trained instruction-following LLM(Large Language Model)을 사용하여 챗봇과 같은 웹 애플리케이션을 구축하는 방법을 보여줍니다. LLM의 응답은 내부 지식 기반에서 컨텍스트를 제공하여 향상됩니다. 이 컨텍스트는 오픈 소스 벡터(vector) 데이터베이스를 사용하여 의미론적(semantic) 검색을 수행하여 검색됩니다.
 
